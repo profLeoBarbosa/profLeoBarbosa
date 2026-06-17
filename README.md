@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=7C3AED&center=true&vCenter=true&width=800&lines=Leonardo+Barbosa;Professor+de+Tecnologia;SENAC+São+Leopoldo" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=27EBF7&center=true&vCenter=true&width=435&lines=qual+eh+a+boa;sereno%3F;na+paz%3F" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
