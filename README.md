@@ -1,12 +1,104 @@
-## 👨‍🏫 Sobre mim
 
-Professor no curso técnico em **Desenvolvimento de Sistemas**.  
-Este perfil é usado para compartilhar materiais, exemplos de código e projetos relacionados às aulas.
+<div align="center">
 
-Sou de **fácil acesso e abordagem**, então fique à vontade para entrar em contato se tiver dúvidas ou quiser conversar sobre tecnologia, programação ou estudos.
+# Leonardo Barbosa
 
-📫 **Contato:**  
-prof.lebc@gmail.com
+Professor de Tecnologia no SENAC São Leopoldo
 
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+---
+
+## Sobre
+
+Atuo na área de desenvolvimento de software e educação tecnológica, trabalhando principalmente com desenvolvimento web, desenvolvimento mobile, bancos de dados, engenharia de software e experiência do usuário.
+
+Este perfil reúne projetos acadêmicos, materiais de aula, exemplos utilizados em atividades de ensino, estudos técnicos e iniciativas desenvolvidas ao longo da minha atuação profissional.
+
+---
+
+## Tecnologias
+
+<table>
+<tr>
+<td>
+
+### Desenvolvimento
+
+- JavaScript
+- TypeScript
+- Java
+- React
+- React Native
+- Firebase
+
+</td>
+<td>
+
+### Banco de Dados
+
+- SQL
+- MySQL
+- Modelagem de Dados
+- Engenharia de Dados
+
+</td>
+<td>
+
+### Projeto de Software
+
+- UX/UI
+- Levantamento de Requisitos
+- Arquitetura de Sistemas
+- Planejamento de Software
+
+</td>
+</tr>
+</table>
+
+---
+
+## Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,firebase,mysql,html,css,figma,git,github,vscode" />
+</p>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=profLeoBarbosa&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoBarbosa&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Repositórios
+
+Os repositórios presentes neste perfil contemplam diferentes áreas relacionadas ao desenvolvimento de software, incluindo aplicações web, aplicações móveis, banco de dados, prototipação de interfaces, engenharia de software e materiais voltados ao ensino de tecnologia.
+
+---
+
+## Áreas de Interesse
+
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- Banco de Dados
+- Experiência do Usuário
+- Educação Tecnológica
+
+---
+
+<div align="center">
+
+profLeoBarbosa
+
+</div>
+```
