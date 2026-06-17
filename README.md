@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=7C3AED&center=true&vCenter=true&width=800&lines=Leonardo+Barbosa;Professor+de+Tecnologia;SENAC+São+Leopoldo" />
+</p>
 
 <div align="center">
 
@@ -60,8 +63,8 @@ Este perfil reúne projetos acadêmicos, materiais de aula, exemplos utilizados 
 
 ## Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,firebase,mysql,html,css,figma,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,firebase,mysql,html,css,figma,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -70,9 +73,9 @@ Este perfil reúne projetos acadêmicos, materiais de aula, exemplos utilizados 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=profLeoBarbosa&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=profLeoBarbosa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoBarbosa&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoBarbosa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,9 +99,8 @@ Os repositórios presentes neste perfil contemplam diferentes áreas relacionada
 
 ---
 
-<div align="center">
+<div align="center" style="color:#7c3aed;">
 
 profLeoBarbosa
 
 </div>
-```
